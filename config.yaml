@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
+canonifyURLs: true
 
 # Theme settings
 # theme: novela
