@@ -1,4 +1,4 @@
-baseURL: "https://example.com"
+baseURL: "https://w33ble.github.io/novela-hugo-starter/"
 languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
