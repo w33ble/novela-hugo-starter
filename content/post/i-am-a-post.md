@@ -8,5 +8,3 @@ hero: "/images/mspets-birthdayparty-dogs-mrkt-0520_horiz-3004770729.jpg"
 
 ---
 So long, and thanks for all the fish.
-
-![](/novela-hugo-starter/images/mspets-birthdayparty-dogs-mrkt-0520_horiz-3004770729.jpg)
